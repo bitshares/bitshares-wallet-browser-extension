@@ -35,7 +35,7 @@
     "jdenticon": "^3.3.0",
     "jest": "^29.7.0",
     "jest-environment-node": "^29.7.0",
-    "web-ext": "^9.4.0"
+    "web-ext": "^10.5.0"
   },
   "jest": {
     "testEnvironment": "node",
